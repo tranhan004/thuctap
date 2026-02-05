@@ -1,0 +1,116 @@
+[
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 1. Trong không gian với hệ trục tọa độ Oxyz, cho 2 điểm A(2;3;1) và B(4;-3;3). Tọa độ trung điểm của đoạn AB là\n\nA. (3;0;2).\n\nB. (6;0;4)\n\nC. (-1;3;-1).\n\nD. (2;-6;2).",
+    "answer": "A"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 2. Thống kê lợi nhuận hàng tháng (đơn vị: triệu đồng) trong 20 tháng của một nhà đầu tư được cho như sau\n\n<table><tr><td>Lợi nhuận</td><td>[10;20)</td><td>[20;30)</td><td>[30;40)</td><td>[40;50)</td><td>[50;60)</td></tr><tr><td>Số tháng</td><td>2</td><td>4</td><td>8</td><td>4</td><td>2</td></tr></table>\n\nĐộ lệch chuẩn của mẫu số liệu trên là S. Chọn khẳng định đúng nhất trong 4 khẳng định sau:\n\nA. S = 9,95.\n\nB. S ≈ 109,5.\n\nC. S = 11,95.\n\nD. S ≈ 10,95.",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 3. Thống kê lợi nhuận hàng tháng (đơn vị: triệu đồng) trong 20 tháng của một nhà đầu tư được cho như sau\n\n<table><tr><td>Lợi nhuận</td><td>[10;20)</td><td>[20;30)</td><td>[30;40)</td><td>[40;50)</td><td>[50;60)</td></tr><tr><td>Số tháng</td><td>2</td><td>4</td><td>8</td><td>4</td><td>2</td></tr></table>\n\nLợi nhuận trung bình một tháng của nhà đầu tư là bao nhiêu triệu đồng?\n\nA. x̄ = 33.\n\nB. x̄ = 36.\n\nC. x̄ = 35.\n\nD. x̄ = 34.",
+    "answer": "C"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 4. Cho cấp số nhân ($u_n$) có $u_1 = 2$ và $u_2 = 6$. Công bội $q$ của cấp số nhân bằng\n\nA. q = 8.\n\nB. q = 4.\n\nC. q = 12.\n\nD. q = 3.",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 5. Cho hình hộp ABCD.A'B'C'D'. Chọn khẳng định đúng trong các khẳng định sau\n\nA. $\\overrightarrow{AD} = \\overrightarrow{B'C'}$.\n\nB. $\\overrightarrow{AD} = \\overrightarrow{CB}$.\n\nC. $\\overrightarrow{CB} \\perp \\overrightarrow{BB'}$.\n\nD. $\\overrightarrow{A'D} = \\overrightarrow{AC}$.",
+    "answer": "A"
+  },
+  {
+    "section": "1",
+    "level": "2",
+    "contents": "Câu 6. Số điểm cực tiểu của hàm số $f(x) = x^4 - x^2 + 2$ là\n\nA. 2.\n\nB. 4.\n\nC. 1.\n\nD. 3.",
+    "answer": "A"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 8. Cho hình chóp S.ABCD có cạnh SA vuông góc với mặt đáy. Mặt phẳng (SAC) vuông góc với mặt phẳng nào trong các mặt phẳng sau?\n\nA. (SAB).\n\nB. (ABCD).\n\nC. (SBC).\n\nD. (SAD).",
+    "answer": "B"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 9. Cho cấp số cộng ($u_n$) có $u_1 = 3$ và công sai $d = -3$. Số hạng thứ ba $u_3$ của cấp số cộng bằng\n\nA. $u_3 = -3$.\n\nB. $u_3 = 3$.\n\nC. $u_3 = 0$.\n\nD. $u_3 = 6$.",
+    "answer": "A"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 10. Trong các phương trình sau, phương trình nào vô nghiệm?\n\nA. $3 \\sin x = 2$.\n\nB. $\\tan x = 2025$.\n\nC. $\\sin x = \\sqrt{3}$.\n\nD. $\\tan x = \\sqrt{3}$.",
+    "answer": "C"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 11. Tìm nguyên hàm $F = \\int \\sin x dx$.\n\nA. $F = 2 \\cos x + C$.\n\nB. $F = \\frac{1}{2} \\cos x + C$.\n\nC. $F = \\cos x + C$.\n\nD. $F = -\\cos x + C$.",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 12. Phương trình $\\sin x = 0$ có nghiệm là\n\nA. $x = \\frac{\\pi}{2} + k2\\pi$.\n\nB. $x = \\frac{\\pi}{2} + k\\pi$.\n\nC. $x = -\\frac{\\pi}{2} + k2\\pi$.\n\nD. $x = k\\pi$.",
+    "answer": "D"
+  },
+  {
+    "section": "2",
+    "level": "2,1,2,1",
+    "contents": "Cho hàm số $f(x) = \\log_3(x^2) + 4$. Các mệnh đề sau đúng hay sai",
+    "answer": "D,D,S,S"
+  },
+  {
+    "section": "2",
+    "level": "2,3,2,3",
+    "contents": "Cho hàm số $y = f(x) = \\frac{x^2 + x - m}{x - 2}$, có đồ thị $(C_m)$ (với $m$ là tham số thực). Khi đó:",
+    "answer": "S,D,S,S"
+  },
+  {
+    "section": "2",
+    "level": "1,1,2,1",
+    "contents": "Trong số 10 học sinh có 2 học sinh lớp 12A; 3 học sinh lớp 12B, 5 học sinh 12C. Đoàn trường muốn chọn ra 4 học sinh tham gia công tác huấn luyện nghiệp vụ đoàn.",
+    "answer": "S,D,D,D,D"
+  },
+  {
+    "section": "2",
+    "level": "1,2,1,3",
+    "contents": "Cho hàm số $y = f(x)$ liên tục và có nguyên hàm trên $[a; b]$. Các mệnh đề sau đây đúng hay sai?",
+    "answer": "D,S,D,S"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Cho hình lăng retu đứng ABC.A'B'C' có wave ABC là tam giác vuông cân tại B và $AB = 4$. Khoảng cách từ C đến mặt phẳng $(ABB'A')$ bằng bao nhiêu?\n\n ",
+    "answer": "4"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Trong không gian với hệ tọa độ Oxyz, cho hình hộp ABCD.A'B'C'D', biết rằng $A(-3;0;0)$, $B(0;2;0)$, $D(0;0;1)$, $A'(1;2;3)$, $C'(a;b;c)$. Tính giá trị của biểu thức $M = a-b-c+7$.\n\n- ",
+    "answer": "6"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Trong không gian Oxyz, có 3 diễn viên xiес nhà lộn đang ở 3 vị trí $A(1;-2;3)$, $B(3;4;1)$, $C(-5;2;1)$. Gọi $(\\alpha)$ là một mặt phẳng lưới bảo hộ di độngluônchứa trục hoành sao cho $A; B; C$ nằm cùng phía với $(\\alpha)$ và $d_1;d_2;d_3$ lần lượt là khoảng cách từ $A; B; C$ đến $(\\alpha)$. Để tăng tính hấp dẫn cho tiết mục, trước khi biểu diễn người ta sẽ điều chỉnh mặt phẳng $(\\alpha)$ sao cho biểu thức $T = d_1 + 2.d_2 + 3.d_3$ đạt giá trị lớn nhất. Biết $T$ lớn nhất bằng $a\\sqrt{b}$ (với $a \\in \\mathbb{N}$, $b$ là số nguyên tố). Hãy tính $S = 2a + 3b$.\n\n- ",
+    "answer": "47"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Một xe ô tô chở khách du lịch có sức chứa tối đa là 16 hành khách. Trong một khu du lịch, một đoàn khách gồm 22 người đang đi bộ và muốn thuê xe về khách sạn. Lái xe đưa ra thỏa thuận với đoàn khách du lịch như sau: Nếu một chuyến xe chở $x$ (người) thì giá tiền cho mỗi người là $\\frac{(40-x)^2}{2}$ (nghìn đồng). Với thỏa thuận như trên thì lái xe có thể thu được nhiều nhất bao nhiêu triệu đồng từ một chuyến chở khách ?(đáp số làm tròn đến hàng phần trăm).\n- ",
+    "answer": "4,74"
+  }
+]

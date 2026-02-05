@@ -1,0 +1,128 @@
+[
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 1. Phương trình $\\sin x = \\frac{1}{2}$ có tập nghiệm là\n\nA. $$ \\begin{cases} x = \\frac{\\pi}{6} + k\\pi \\\\ x = \\frac{5\\pi}{6} + k\\pi \\end{cases} $$\n\nB. $$ \\begin{cases} x = \\frac{\\pi}{6} + k2\\pi \\\\ x = \\frac{-\\pi}{6} + k2\\pi \\end{cases} $$\n\nC. $$ \\begin{cases} x = \\frac{\\pi}{6} + k\\pi \\\\ x = \\frac{-\\pi}{6} + k\\pi \\end{cases} $$\n\nD. $$ \\begin{cases} x = \\frac{\\pi}{6} + k2\\pi \\\\ x = \\frac{5\\pi}{6} + k2\\pi \\end{cases} $$\n\n\n",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 2. Khảo sát thời gian xem ti vi trong một ngày của một số học sinh khối 11 thu được mẫu số liệu ghép nhóm sau:\n\n<table><tr><td>Thời gian (phút)</td><td>[0; 20)</td><td>[20; 40)</td><td>[40; 60)</td><td>[60; 80)</td><td>[80; 100)</td></tr><tr><td>Số học sinh</td><td>5</td><td>9</td><td>12</td><td>10</td><td>6</td></tr></table>\n\nGiá trị đại diện của nhóm [40; 60) là\n\nA. 60.\n\nB. 30.\n\nC. 40.\n\nD. 50.\n\n\n- ",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 3. Hàm số $y = e^x + 3$ có đạo hàm là\n\nA. $3e^x$\n\nB. $e^x$\n\nC. $e^{x+3}$\n\nD. $e^x + 3$\n\n\n- ",
+    "answer": "B"
+  },
+  {
+    "section": "1",
+    "level": "2",
+    "contents": "Câu 4. Tập nghiệm của bất phương trình $2^x \\le 4$ là\n\nA. $(-\\infty; 2]$\n\nB. $(0; 2]$\n\nC. $(-\\infty; 2)$\n\nD. $[2; +\\infty)$\n\n\n- ",
+    "answer": "A"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 5. Với $a > 0$, tính $M = 3^{\\log_3 a}$ theo a.\n\nA. $3a$\n\nB. 0\n\nC. $a$\n\nD. 3\n\n\n- ",
+    "answer": "C"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 6. Hàm số nào sau đây liên tục trên $R$\n\nA. $y = \\tan x$\n\nB. $y = \\sqrt{3x-2}$\n\nC. $y = x^2 + 1$\n\nD. $y = \\frac{x-2}{2x-1}$\n\n\n- ",
+    "answer": "C"
+  },
+  {
+    "section": "1",
+    "level": "2",
+    "contents": "Câu 7. Tam thức bậc hai $f(x) = -x^2 - x + 2$ luôn dương trên khoảng\n\nA. $(2;-1)$\n\nB. $(-\\infty; +\\infty)$\n\nC. $(-\\infty; -2)$\n\nD. $(-2; 1)$\n\n\n- ",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 8. Giới hạn $\\lim_{n+1} \\frac{2n-3}{n+1}$ bằng\n\nA. -1\n\nB. $+\\infty$\n\nC. -3\n\nD. 2\n\n\n- .",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 9. Giới hạn $\\lim_{x \\to 2} \\frac{x-2}{x+2}$ bằng\n\nA. 1\n\nB. $+\\infty$\n\nC. 0\n\nD. 2\n\n \n- ",
+    "answer": "C"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 10. Công thức nào sau đây là đúng?\n\nA. $\\sin 2x = 2 \\sin x$\n\nB. $\\sin 2x = 1 - 2 \\sin^2 x$\n\nC. $\\sin 2x = 2 \\cos^2 x - 1$\n\nD. $\\sin 2x = 2 \\sin x \\cos x$\n\n\n- ",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 11. Đạo hàm cấp hai của hàm số $y = x^4 - 3x^2 + 5$\n\nA. $y'' = 12x^2 - 6$\n\nB. $y'' = 4x^3 - 6x$\n\nC. $y'' = 7x^2 - 6$\n\nD. $y'' = x^2 - 3$\n\n\n- ",
+    "answer": "A"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 12. Số mặt của hình lăng trụ tam giác là\n\nA. 4.\n\nB. 3.\n\nC. 5.\n\nD. 2.\n- ",
+    "answer": "C"
+  },
+  {
+    "section": "2",
+    "level": "1,1,2,2",
+    "contents": "Cho hàm số $y = x^3 - 3x^2 + 9$ có đồ thị là đường cong (C).\n\na) $y''(1) = 0$.\n\nb) $y' = 3x^2 - 6x + 9$.\n\nc) Phương trình $y' = 9$ có tập nghiệm $S = \\{0; 2\\}$.\n\nd) Hệ số góc của tiếp tuyến của (C) tại điểm có hoành độ $x_0 = 1$ bằng $-3$.",
+    "answer": "D,S,S,D"
+  },
+  {
+    "section": "2",
+    "level": "2,3,1,3",
+    "contents": "Cho hình chóp $S.ABCD$ có $SA \\perp (ABCD)$, $SA = a\\sqrt{3}$, $ABCD$ là hình vuông cạnh bằng $a$. Khi đó, các mệnh đề sau đúng hay sai?\n\na) $\\widehat{ASD} = 60^\\circ$.\n\nb) Gọi $M$ là trung điểm $SA$. Khi đó: $d(M, (SBC)) = \\frac{\\sqrt{3}}{4}a$.\n\nc) $SA \\perp CD$.\n\nd) Thể tích khối chóp $S.ABC$ bằng $\\frac{a^3\\sqrt{3}}{6}$ (đvtt).",
+    "answer": "S,D,D,D"
+  },
+  {
+    "section": "2",
+    "level": "1,2,2,1",
+    "contents": "Lớp 12A có 52% học sinh học tốt môn Anh, 56% học sinh học tốt môn Toán, 18% học sinh học tốt cả 2 môn Anh và Toán, và 5 học sinh chưa học tốt một môn nào trong số hai môn Toán và Anh. Lấy ngẫu nhiên một học sinh của lớp 12A đó.\n\na) Xác suất để học sinh đó học tốt môn Toán là 0,52.\n\nb) 10% học sinh lớp đó chưa học tốt một môn nào trong số hai môn Toán và Anh.\n\nc) Xác suất để học sinh đó chỉ học tốt một trong hai môn Toán hoặc Anh là 0,72.\n\nd) Lớp đó có 50 học sinh.",
+    "answer": "S,D,D,D"
+  },
+  {
+    "section": "2",
+    "level": "2,3,1,1",
+    "contents": "Cho hàm số $f(x) = \\log_3(x+2)$.\n\na) Bất phương trình $f(x) \\ge 1$ có tập nghiệm $[1; +\\infty)$.\n\nb) Bất phương trình $f(x) \\le 28 - x$ có 28 nghiệm nguyên.\n\nc) Phương trình $f(x) = 2$ có nghiệm $x = 7$.\n\nd) Tập xác định của hàm số là $[-2; +\\infty)$.",
+    "answer": "D,S,D,S"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Bạn Hùng nhà bác Lan năm nay thi đỗ vào cấp 3. Bác Lan muốn cho Hùng đi du học sau khi tốt nghiệp cấp 3. Theo tìm hiểu của bác, ngoài các hồ sơ cần thiết về học tập thì cần phải chuẩn bị 300 triệu để lo học phí và các thủ tục. Để 3 năm sau bác có 300 triệu (cả gốc và lãi) thì bây giờ bác phải gửi vào ngân hàng theo hình thức lãi kép ít nhất bao nhiêu triệu đồng (Lấy đến hàng đơn vị tiền triệu)? Biết lãi suất ngân hàng không đổi là 5,5% một năm.\n\n\n- ",
+    "answer": "256"
+  },
+  {
+    "section": "3",
+    "level": "2",
+    "contents": "Cho hàm số $y = \\frac{2x+1}{x+1}$. Phương trình $y' = 1$ có tổng các nghiệm bằng bao nhiêu?\n\n\n- ",
+    "answer": "-2"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Cho hình chóp S.ABC có tam giác SAB vuông cân tại S, $AB=2$. Các góc tạo bởi các mặt phẳng (SAB), (SAC), (SBC) với mặt đáy lần lượt là $90°$, $60°$, $60°$. Tính khoảng cách từ điểm C đến mặt phẳng (SAB) (làm tròn kết quả đến hàng phần chục).\n\n\n- ",
+    "answer": "0,7"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Chuyển động của một vật gắn trên con lắc lò xo (khi bỏ qua ma sát và sức cản không khí) được cho bởi phương trình sau\n\n$$\nx(t) = 15 + 0,5 \\sin(2\\pi t)\n$$\n\nTrong đó $x$ tính bằng cm, thời gian $t$ tính bằng giây. Vận tốc lớn nhất mà con lắc đạt được là bao nhiêu cm/s?\n(Làm tròn đến hàng phần trăm)\n\n\n- ",
+    "answer": "3,14"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Bộ Giáo dục và Đào tạo đã ban hành quyết định về việc phê duyệt phương án tổ chức kỳ thi và xét công nhận tốt nghiệp Trung học phổ thông từ năm 2025. Theo đó, thí sinh thi bắt buộc 2 môn, gồm: Ngữ văn, Toán và 2 môn tự chọn trong số 9 môn còn lại được học ở lớp 12, gồm: Ngoại ngữ, Lịch sử, Vật lý, Hóa học, Sinh học, Địa lý, Giáo dục kinh tế và pháp luật, Tin học, Công nghệ. Chọn một tổ hợp thi bất kì. Tính xác suất để thí sinh có thể dùng kết quả thi đó xét t chuyển khối C09 (Văn-Vật lí-Địa lý) (làm tròn kết quả đến hàng phần trăm).\n\n\n- ",
+    "answer": "0,03"
+  }
+]

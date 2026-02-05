@@ -1,0 +1,92 @@
+[
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 1. Nghiệm của phương trình $cos x = -\\frac{1}{2}$ là:\n\nA. $x = \\pm\\frac{\\pi}{3} + k2\\pi$.\n\nB. $x = \\pm\\frac{\\pi}{6} + k2\\pi$.\n\nC. $x = \\pm\\frac{2\\pi}{3} + k2\\pi$.\n\nD. $x = \\pm\\frac{\\pi}{6} + k\\pi$.\n\n- **",
+    "answer": "C"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 2. Cho cấp số cộng ($u_n$) có số lượng đầu $u_1 = 2$ và công sai $d = 3$. Giá trị của $u_4$ bằng\n\nA. 54.\n\nB. 11.\n\nC. 12.\n\nD. 8.\n\n- **",
+    "answer": "B"
+  },
+  {
+    "section": "1",
+    "level": "2",
+    "contents": "Câu 3. Tập nghiệm của bất phương trình $log₃(x-3) < 2$ là:\n\nA. (1;9).\n\nB. $(-\\infty;12)$.\n\nC. (12;+∞).\n\nD. (3;12).\n\n- **",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 4. Nghiệm của phương trình $5^x = 10$ là:\n\nA. $x = 2$.\n\nB. $x = log₅ 10$.\n\nC. $x = 5$.\n\nD. $x = ln 10$.\n\n- **",
+    "answer": "B"
+  },
+  {
+    "section": "1",
+    "level": "2",
+    "contents": "Câu 5. Cho hình chóp tứ giác S.ABCD. Gọi M và N lần lượt là trung điểm của SA và SC. Khẳng định nào sau đây đúng?\n\nA. MN // mp (ABCD).\n\nB. MN // mp (SAB).\n\nC. MN // mp (SCD).\n\nD. MN // mp (SBC).\n\n- **",
+    "answer": "A"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 6. Gieo một xúc xắc hai lần liên tiếp. Xác suất của biến cố \"Lần thứ nhất xuất hiện mặt 1 chấm, lần thứ hai xuất hiện mặt 3 chấm\" là:\n\nA. $\\frac{1}{2}$.\n\nB. $\\frac{1}{6}$.\n\nC. $\\frac{1}{36}$.\n\nD. $\\frac{1}{4}$.\n\n- **",
+    "answer": "C"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 8. Tìm phương trình đường tiem cận ngang của đồ thị hàm số $y = \\frac{x+2}{1-x}$.\n\nA. $x = 1$.\n\nB. $y = -1$.\n\nC. $y = 1$.\n\nD. $x = -1$.\n\n- **",
+    "answer": "B"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 9. Trong không gian tọa độ Oxyz, cho điểm A(1;-2;3). Hình chiếu vuông góc của điểm A trên mặt phẳng tọa độ (Oxz) là\n\nA. M(0;-2;0).\n\nB. M(1;0;3).\n\nC. M(1;0;0).\n\nD. M(0;2;0).\n\n- **",
+    "answer": "B"
+  },
+  {
+    "section": "1",
+    "level": "1",
+    "contents": "Câu 10. Trong không gian Oxyz, cho A(1;1;-3), B(3;-1;1). Gọi M là trung điểm của AB, đoạn OM có độ dài bằng\n\nA. $2\\sqrt{6}$.\n\nB. $\\sqrt{6}$.\n\nC. $2\\sqrt{5}$.\n\nD. $\\sqrt{5}$.\n\n",
+    "answer": "D"
+  },
+  {
+    "section": "1",
+    "level": "2",
+    "contents": "Câu 11. Cho mẫu số liệu ghép nhóm về thống kê thời gian hoàn thành (phút) một bài kiểm tra trực tuyến của 100 học sinh, ta có bảng số liệu sau:\n\n<table><tr><td>Thời gian (phút)</td><td>[33; 35)</td><td>[35; 37)</td><td>[37; 39)</td><td>[39; 41)</td><td>[41; 43)</td><td>[43; 45)</td></tr><tr><td>Số học sinh</td><td>4</td><td>13</td><td>38</td><td>27</td><td>14</td><td>4</td></tr></table>\n\nThời gian trung bình để 100 học sinh hoàn thành bài kiểm tra là:\n\nA. 39,28 phút.\n\nB. 38,29 phút.\n\nC. 38,92 phút.\n\nD. 39,82 phút.\n\n- **",
+    "answer": "C"
+  },
+  {
+    "section": "2",
+    "level": "1,2,2,3",
+    "contents": "Câu 1. Một người vừa gieo một con xúc xắc để ghi lại số chấm xuất hiện, sau đó người này tiếp tục chọn ngẫu nhiên một lá bài từ bộ bài 52 lá.\n\na) Gọi A là biến cố: \"Số chấm của xúc xắc bằng 6 \", khi đó: $P(\n\nA) = \\frac{1}{6}$\n\nb) Gọi B là biến cố: \"Chọn được một lá bài cơ\", khi đó: $P(\n\nB) = \\frac{3}{13}$\n\nc) Xác suất để “ số chấm trên con xúc xắc là 6 và chọn được một lá bài cơ “ bằng: $\\frac{1}{24}$\n\nd) Xác suất để số chấm trên con xúc xắc và số của lá bài là giống nhau bằng: $\\frac{1}{13}$\n\n- **",
+    "answer": "D,S,D,S"
+  },
+  {
+    "section": "2",
+    "level": "1,2,3,2",
+    "contents": "Câu 2. Cho hàm số $y = \\frac{x^2 + 3x + 3}{x + 2}$.\n\na) Hàm số đã cho đồng biến trên $(-\\infty; -3)$ và $(-1; +\\infty)$.\n\nb) Tổng giá trị cực đại và giá trị cực tiểu của hàm số đã cho bằng -4.\n\nc) Đường tiệm cận xiên của đồ thị hàm số đã cho đi qua điểm $A(0; 2)$.\n\nd) Phương trình tiếp tuyến của đồ thị hàm số đã cho song song với đường thẳng $y = -3x - 11$ đi qua điểm $B(1; -6)$.\n\n- **",
+    "answer": "D,S,S,D"
+  },
+  {
+    "section": "2",
+    "level": "1,2,2,2",
+    "contents": "Câu 3. Một công ty sản xuất dụng cụ thể thao nhận được một đơn đặt hàng sản xuất 8000 quả bóng pickleball. Công ty này sở hữu một số máy móc, mỗi máy có thể sản xuất 30 quả bóng trong một giờ. Chi phí thiết lập các máy này là 200esk1000 đồng cho mỗi máy. Khi được thiết lập, hoạt động sản xuất sẽ hoàn toàn diễn ra tự động dưới sự giám sát (người giám sát sẽ giám sát tất cả các máy). Số tiền phải trả cho người giám sát là 192esk1000 đồng một giờ.\n\na) Trong 1 giờ, cần 266 máy để sản xuất được 8000 quả bóng pickleball.\n\nb) Trong $\\frac{8}{3}$ giờ, cần 100 máy để sản xuất được 8000 quả bóng pickleball.\n\nc) Chi phí hoạt động thấp nhất là 6,5 triệu đồng.\n\nd) Để chi phí hoạt động thấp nhất, công ty cần sử dụng 16 máy.\n\n",
+    "answer": "S,D,S,D"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Câu 4. Một doanh nghiệp dự định sản xuất không quá 1000 sản phẩm. Nếu doanh nghiệp sản xuất $x$ sản phẩm ($1 \\le x \\le 1000$) thì doanh thu nhận được khi bán hết số sản phẩm đó là\n\n$$\nF(x) = x^{3} - 2999x^{2} + 2255000x + 300000 \\text{ (đồng), trong khi chi phí sản xuất bình quân cho một sản phẩm}\n$$\n\nlà $G(x) = x + 5000 + \\frac{300000}{x}$ (đồng). Doanh nghiệp cần sản xuất bao nhiêu sản phẩm để lợi nhuận thu được là lớn nhất?\n\n- ",
+    "answer": "500"
+  },
+  {
+    "section": "3",
+    "level": "3",
+    "contents": "Câu 5. Cho tứ diện đều $ABCD$ cạnh $a$. Tính cosin góc giữa hai đường thẳng $AB$ và $CI$, với $I$ là trung điểm của $AD$ (làm tròn đến hàng phần mười).\n\n- ",
+    "answer": "0,3"
+  }
+]
